@@ -10,6 +10,8 @@ namespace AL.PosTil.DAL
         public static IParcelInfo GetParcelInfoDAL()
         {
             return ParcelInfoDAL.Instance;
+
+
         }
     }
 }
