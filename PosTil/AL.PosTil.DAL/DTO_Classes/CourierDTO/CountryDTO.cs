@@ -9,5 +9,7 @@ namespace AL.PosTil.DAL
     {
         public int CountryId { get; set; }
         public string CountryName { get; set; }
+        //sdfsdfsdf
+        //sfsfsfsdf
     }
 }
