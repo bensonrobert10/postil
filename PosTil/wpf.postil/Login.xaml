@@ -1,0 +1,19 @@
+﻿<Window x:Class="wpf.postil.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"  
+        Title="PosTil" Height="273" Width="430" OpacityMask="Black" Topmost="True" WindowStyle="None" WindowStartupLocation="CenterScreen">
+
+    <Grid>
+        <Label Style="{StaticResource TopMenuStyle}" Height="40" VerticalAlignment="Top"></Label>
+        <Label Style="{StaticResource StripStyle}" Height="4" Margin="0,40,0,0" VerticalAlignment="Top"></Label>
+        <Label Style="{StaticResource TopMenuStyle}" Height="20" VerticalAlignment="Bottom"></Label>
+        <Button Content="Log In"  HorizontalAlignment="Left" Margin="121,157,0,0" Name="btnLogIn" VerticalAlignment="Top" Width="75" Click="btnLogIn_Click" />
+        <Button Content="Exit"  HorizontalAlignment="Left" Margin="211,157,0,0" Name="btnExit" VerticalAlignment="Top" Width="75" Click="btnExit_Click" />
+        <TextBox Height="35" HorizontalAlignment="Left" Margin="168,71,0,0" Name="textBox1" VerticalAlignment="Top" Width="163" />
+        <Label Content="Username" Height="28" HorizontalAlignment="Left" Margin="67,69,0,0" Name="label1" VerticalAlignment="Top" />
+        <TextBox Height="39" HorizontalAlignment="Right" Margin="0,112,77,0" Name="textBox2" VerticalAlignment="Top" Width="163" />
+        <Label Content="Password" Height="28" HorizontalAlignment="Left" Margin="66,110,0,0" Name="label2" VerticalAlignment="Top" />
+        <Image Height="45" HorizontalAlignment="Left" Margin="5,1,0,0" Name="Logo" Stretch="Fill" VerticalAlignment="Top" Width="116" />
+
+    </Grid>
+</Window>

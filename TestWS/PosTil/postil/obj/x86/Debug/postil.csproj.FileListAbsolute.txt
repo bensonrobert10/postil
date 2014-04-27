@@ -1,0 +1,16 @@
+D:\Benson\Projects\PosTil\PosTil\postil\bin\Debug\postil.exe
+D:\Benson\Projects\PosTil\PosTil\postil\bin\Debug\postil.pdb
+D:\Benson\Projects\PosTil\PosTil\postil\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Benson\Projects\PosTil\PosTil\postil\obj\x86\Debug\postil.Properties.Resources.resources
+D:\Benson\Projects\PosTil\PosTil\postil\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Benson\Projects\PosTil\PosTil\postil\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Benson\Projects\PosTil\PosTil\postil\obj\x86\Debug\postil.exe
+D:\Benson\Projects\PosTil\PosTil\postil\obj\x86\Debug\postil.pdb
+D:\Benson\Projects\PosTil\PosTil\postil\obj\x86\Debug\postil.Home.resources
+D:\Benson\Projects\PosTil\PosTil\postil\obj\x86\Debug\postil.Courier.CourierHome.resources
+D:\Benson\Projects\PosTil\PosTil\postil\obj\x86\Debug\postil.Login.resources
+D:\Benson\Projects\PosTil\PosTil\postil\bin\Debug\AL.PosTil.BL.dll
+D:\Benson\Projects\PosTil\PosTil\postil\bin\Debug\AL.PosTil.BL.pdb
+D:\Benson\Projects\PosTil\PosTil\postil\bin\Debug\AL.PosTil.DAL.dll
+D:\Benson\Projects\PosTil\PosTil\postil\bin\Debug\AL.PosTil.DAL.pdb
+D:\Benson\Projects\PosTil\PosTil\postil\bin\Debug\postil.exe.config

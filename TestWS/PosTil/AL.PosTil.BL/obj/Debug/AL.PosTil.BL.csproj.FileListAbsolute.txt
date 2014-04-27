@@ -1,0 +1,7 @@
+D:\Benson\Projects\PosTil\PosTil\AL.PosTil.BL\bin\Debug\AL.PosTil.BL.dll
+D:\Benson\Projects\PosTil\PosTil\AL.PosTil.BL\bin\Debug\AL.PosTil.BL.pdb
+D:\Benson\Projects\PosTil\PosTil\AL.PosTil.BL\obj\Debug\ResolveAssemblyReference.cache
+D:\Benson\Projects\PosTil\PosTil\AL.PosTil.BL\obj\Debug\AL.PosTil.BL.dll
+D:\Benson\Projects\PosTil\PosTil\AL.PosTil.BL\obj\Debug\AL.PosTil.BL.pdb
+D:\Benson\Projects\PosTil\PosTil\AL.PosTil.BL\bin\Debug\AL.PosTil.DAL.dll
+D:\Benson\Projects\PosTil\PosTil\AL.PosTil.BL\bin\Debug\AL.PosTil.DAL.pdb
