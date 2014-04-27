@@ -1,5 +1,0 @@
-D:\Benson\Projects\PosTil\PosTil\AL.PosTil.DAL\bin\Debug\AL.PosTil.DAL.dll
-D:\Benson\Projects\PosTil\PosTil\AL.PosTil.DAL\bin\Debug\AL.PosTil.DAL.pdb
-D:\Benson\Projects\PosTil\PosTil\AL.PosTil.DAL\obj\Debug\ResolveAssemblyReference.cache
-D:\Benson\Projects\PosTil\PosTil\AL.PosTil.DAL\obj\Debug\AL.PosTil.DAL.dll
-D:\Benson\Projects\PosTil\PosTil\AL.PosTil.DAL\obj\Debug\AL.PosTil.DAL.pdb
